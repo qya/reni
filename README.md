@@ -1,6 +1,6 @@
 
 # Reni Custom Plyr
-![](https://image.prntscr.com/image/5Ck2jeqTTsaIYH2qEUIuCQ.png)
+![](https://image.prntscr.com/image/L4g8q_eVSYGjr_lxSYe7JQ.png)
 
 ## Installation
 1. Upload the downloaded .zip into your website's root folder or any other folder you want & Extract It
